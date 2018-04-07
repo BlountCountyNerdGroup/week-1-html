@@ -1,0 +1,21 @@
+#heading {
+    font-size: 2px;
+}
+
+#activity-img {
+    width: 15px;
+    height: 500%;
+}
+
+#favorite-sport {
+    font-family: "Comic Sans MS";
+    /* Other fonts include Verdana, Times New Roman, Arial, Roboto, etc. (look up on google) */
+}
+
+#worst-activity {
+    background-color: yellow;
+}
+
+#favorite-website {
+    visibility: hidden;
+}

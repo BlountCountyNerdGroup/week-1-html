@@ -1,0 +1,66 @@
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction:row;
+}
+
+.horizontal-centered {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.vertical-centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#heading {
+    background-color: #2196f3;
+    color: white;
+    padding: 0;
+    font-family: Verdana;
+    padding: 15px;
+}
+
+html, body {
+    margin: 0;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+#activity {
+    max-height: 100%;
+}
+
+img {
+    max-width: 100%;
+    max-height: inherit;
+}
+
+.gray {
+    background-color: rgb(225, 225, 225);
+}
+
+.extra-padding {
+    padding: 15px;
+}
+
+.light-blue {
+    background-color: #6ec6ff;
+}
+
+.margin-left {
+    margin-left: 5px;
+}
